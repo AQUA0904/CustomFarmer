@@ -1,0 +1,4 @@
+name: CustomFarmer
+version: '${project.version}'
+main: me.aqua.customfarmer.CustomFarmer
+api-version: '1.20'
